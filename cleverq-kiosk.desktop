@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=cleverq-kiosk
+Exec=/home/pi/cleverq-kiosk/cleverq-kiosk.AppImage
+
+Icon=chrome-afhcomalholahplbjhnmahkoekoijban-Default
+StartupWMClass=crx_afhcomalholahplbjhnmahkoekoijban
+
